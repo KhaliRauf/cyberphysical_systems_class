@@ -1,3 +1,5 @@
 # cyberphysical_systems_class
 
-This is a repository containing my classes on cyberphysical systems
+This is a repository containing my classes on cyberphysical systems.
+
+## Course contents
